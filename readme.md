@@ -1,4 +1,4 @@
-! 停止維護和遷移說明 / archive and migreation.
+# 停止維護和遷移說明 / archive and migreation.
 
 此專案的所有內容已經整合至 NotepadPlusPlus 附加元件，請改安裝 https://github.com/derekriemer/nvda-notepadPlusPlus/ 的版本。
 
